@@ -1,4 +1,4 @@
-- 👋 Olá, sou Wanderson SOares e meu nick é esse @KPotaku
+- 👋 Olá, sou Wanderson Soares e meu nick é esse @KPotaku
 - 👀 Estou interessado em C# pois vi que é uma oportunidade de me manter atualizado no mercado de trabalho  
 - 🌱 Atualmente estudo Java e postarei alguns projetos aqui
 - 💞️ Procuro ajudar quem precisar e ter algum erro com codigo e espero a colaboração de vocês aqui também
